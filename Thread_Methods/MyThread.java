@@ -18,4 +18,4 @@ public class MyThread extends Thread {
         System.out.println("Thread is Running...");
     }
 }
-//start, run, sleep, join.
+//start, run, sleep, join, SetPriority, interrupt, yield and setdaemon
